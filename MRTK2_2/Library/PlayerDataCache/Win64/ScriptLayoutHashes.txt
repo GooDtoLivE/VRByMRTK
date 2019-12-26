@@ -1,22 +1,8 @@
 Win64
 PlayerPath?
-C:/Project/MRTK2_2/Build/VR-HMD/MRTK2_2.exe
+C:/Project/VRByMRTK/MRTK2_2/Build/VR-VIVE/MRTK2_2.exe
 SceneListBegin?
-Assets/MixedRealityToolkit.Examples/Experimental/ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
-Assets/MixedRealityToolkit.Examples/Demos/HandTracking/Scenes/HandInteractionExamples.unity
-Assets/MixedRealityToolkit.Examples/Demos/StandardShader/Scenes/ClippingExamples.unity
-Assets/MixedRealityToolkit.Examples/Demos/UX/Tooltips/Scenes/TooltipExamples.unity
-Assets/MixedRealityToolkit.Examples/Demos/StandardShader/Scenes/MaterialGallery.unity
-Assets/MixedRealityToolkit.Examples/Demos/UX/BoundingBox/Scenes/BoundingBoxExamples.unity
-Assets/MixedRealityToolkit.Examples/Demos/UX/PressableButton/Scenes/PressableButtonExample.unity
-Assets/MixedRealityToolkit.Examples/Demos/HandTracking/Scenes/HandMenuExamples.unity
-Assets/MixedRealityToolkit.Examples/Demos/UX/Slate/SlateExample.unity
-Assets/MixedRealityToolkit.Examples/Demos/UX/Slider/Scenes/SliderExample.unity
-Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-02-TargetSelection.unity
-Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-03-Navigation.unity
-Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-04-TargetPositioning.unity
-Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-05-Visualizer.unity
-Assets/MixedRealityToolkit.Examples/Demos/HandTracking/Scenes/NearMenuExamples.unity
+Assets/TestOpenVR.unity
 SceneListEnd?
 a1f19ad47d3094e235f21b74dfc423a8 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessLayer
 2a96dc89b8a5059865d5c28557c5ab8d Microsoft.MixedReality.Toolkit.SDK.dll:Microsoft.MixedReality.Toolkit.Input.ScreenSpaceMousePointer
