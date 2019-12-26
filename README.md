@@ -1,6 +1,5 @@
 # VRByMRTK
 Develop VR application by MRTK 2.2
-#How to develop VR app by MRTK2.2？
 
 ## System Requirement
 * MRKT： 2.2
